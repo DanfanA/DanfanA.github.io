@@ -56,7 +56,7 @@ body {
     background-image: url("images/bannerbg.png");
     background-repeat: repeat-x;
     background-size: auto 83px;
-     widows: 10px;
+   widows: inherit;
     font-size: 48pt;
     font-style: normal;
     color: red;
