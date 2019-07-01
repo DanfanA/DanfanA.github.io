@@ -1,0 +1,23 @@
+
+div{
+    position: relative;
+   top:100px;
+    left:300px;           
+}
+body{
+    color: blue;
+}
+p{
+    font-size:32;
+    font-weight: bold;
+    align-self: auto;
+}
+span{
+    font-size: 26px;
+    font-weight: bold;
+}
+img{
+    float:left;
+    align-self: center;
+
+}
