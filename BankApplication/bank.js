@@ -9,16 +9,16 @@ function NewAccount(name, dep) {
 
   var account = {
 
-    'getAccName': function () {
+    getAccName: function () {
       return accname;
     },
-    'getDeposit': function () {
+    getDeposit: function () {
       return deposit;
     },
-    'setAccName': function (name) {
+    setAccName: function (name) {
       accname = name;
     },
-    'setDeposit': function (dep) {
+    setDeposit: function (dep) {
       deposit = dep;
     }
   };
