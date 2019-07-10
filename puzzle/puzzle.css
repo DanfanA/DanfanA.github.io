@@ -7,7 +7,7 @@ body, button {
 
 /* The area that holds the 15 puzzle pieces. */
 #puzzlearea {
-	font-size: 40pt;
+	font-size:40pt;
 	width: 400px;
 	height: 400px;
 	margin-left: auto;
